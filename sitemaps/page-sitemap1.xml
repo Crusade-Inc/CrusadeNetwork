@@ -1,0 +1,105 @@
+<div class="wpuf-message">You are not logged in</div>
+		<form name="loginform" id="loginform" action="/wp-login.php" method="post">
+			
+			<p class="login-username">
+				<label for="user_login">Username or Email Address</label>
+				<input type="text" name="log" id="user_login" class="input" value="" size="20" />
+			</p>
+			<p class="login-password">
+				<label for="user_pass">Password</label>
+				<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" />
+			</p>
+			
+			<p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember Me</label></p>
+			<p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary" value="Log In" />
+				<input type="hidden" name="redirect_to" value="/sitemaps/page-sitemap1.xml" />
+			</p>
+			
+		</form><?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/sitemaps_xsl.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>/start</loc>
+<lastmod>2020-03-30T22:05:11-04:00</lastmod>
+</url>
+<url>
+<loc>/petition-edit-success</loc>
+<lastmod>2020-03-16T20:48:12-04:00</lastmod>
+</url>
+<url>
+<loc>/manifesto</loc>
+<lastmod>2020-03-16T11:56:19-04:00</lastmod>
+</url>
+<url>
+<loc>/help</loc>
+<lastmod>2020-03-16T00:35:08-04:00</lastmod>
+</url>
+<url>
+<loc>/petition-success</loc>
+<lastmod>2020-03-15T23:21:37-04:00</lastmod>
+</url>
+<url>
+<loc>/dashboard</loc>
+<lastmod>2020-03-15T23:11:04-04:00</lastmod>
+</url>
+<url>
+<loc>/welcome</loc>
+<lastmod>2020-03-15T23:07:21-04:00</lastmod>
+</url>
+<url>
+<loc>/submit-your-entry</loc>
+<lastmod>2020-03-15T22:58:31-04:00</lastmod>
+</url>
+<url>
+<loc>/edit-petition</loc>
+<lastmod>2020-03-15T22:57:51-04:00</lastmod>
+</url>
+<url>
+<loc>/login</loc>
+<lastmod>2020-03-15T22:52:20-04:00</lastmod>
+</url>
+<url>
+<loc>/enroll</loc>
+<lastmod>2020-03-15T22:51:59-04:00</lastmod>
+</url>
+<url>
+<loc>/</loc>
+<lastmod>2020-03-15T22:43:04-04:00</lastmod>
+<image:image>
+<image:loc><![CDATA[/wp-content/uploads/2020/01/rex.svg]]></image:loc>
+<image:caption><![CDATA[Christ the King]]></image:caption>
+</image:image>
+</url>
+<url>
+<loc>/symposium-narthex</loc>
+<lastmod>2020-03-15T21:04:45-04:00</lastmod>
+</url>
+<url>
+<loc>/about</loc>
+<lastmod>2020-02-15T10:27:28-05:00</lastmod>
+</url>
+<url>
+<loc>/legal</loc>
+<lastmod>2020-02-15T08:23:20-05:00</lastmod>
+</url>
+<url>
+<loc>/logged-out</loc>
+<lastmod>2020-02-05T15:01:00-05:00</lastmod>
+</url>
+<url>
+<loc>/share</loc>
+<lastmod>2020-02-05T14:59:43-05:00</lastmod>
+</url>
+<url>
+<loc>/privacy-promise</loc>
+<lastmod>2019-12-18T21:43:50-05:00</lastmod>
+</url>
+<url>
+<loc>/intellectual-property-statement</loc>
+<lastmod>2019-12-18T21:07:26-05:00</lastmod>
+</url>
+<url>
+<loc>/update-profile</loc>
+<lastmod>2019-12-01T21:38:02-05:00</lastmod>
+</url>
+</urlset>

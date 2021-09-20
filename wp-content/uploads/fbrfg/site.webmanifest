@@ -1,0 +1,19 @@
+{
+    "name": "Crusade",
+    "short_name": "Crusade",
+    "icons": [
+        {
+            "src": "/wp-content/uploads/fbrfg/android-chrome-192x192.png?v=algG5O7k9d",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/wp-content/uploads/fbrfg/android-chrome-384x384.png?v=algG5O7k9d",
+            "sizes": "384x384",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#2e334c",
+    "background_color": "#2e334c",
+    "display": "standalone"
+}
